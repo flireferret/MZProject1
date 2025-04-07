@@ -1,4 +1,4 @@
 # MZProject1
 qr code
 new line
-rerererer
+feature-C is completed by Rui
